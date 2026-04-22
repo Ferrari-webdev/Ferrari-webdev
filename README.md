@@ -19,8 +19,8 @@ Sou um entusiasta da tecnologia focado em criar interfaces modernas e funcionais
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferrari-webdev&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferrari-webdev&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrari-webdev&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrari-webdev&theme=dark"/>
 </p>
 
 ---
